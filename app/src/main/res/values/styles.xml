@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">#000</item>
+    </style>
+
+    <!--Login them for the firebase sign in UI-->
+    <style name="LoginTheme" parent="FirebaseUI">
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="title">Duchess Chat</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimaryDark">#C5C5C5</item>
+        <item name="colorButtonNormal">@android:color/white</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/login_background</item>
+        <item name="icon">@drawable/ic_logo</item>
+
+    </style>
+
+</resources>

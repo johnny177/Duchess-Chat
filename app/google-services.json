@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243990429264",
+    "firebase_url": "https://duchess-project.firebaseio.com",
+    "project_id": "duchess-project",
+    "storage_bucket": "duchess-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243990429264:android:2314e8e2b4ecd0eb48db55",
+        "android_client_info": {
+          "package_name": "com.nnoboa.duchesschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243990429264-3fgh91ennsgkiq0f9jdl8vif4euh90fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nnoboa.duchesschat",
+            "certificate_hash": "59498b14aaeee9b35723f6c9c6d0b13a2d9f84d6"
+          }
+        },
+        {
+          "client_id": "243990429264-rcs8hm0bb7ae3dv4pvqc612pn2i5dnnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIgVkdaemXRQx_-WOcLzGLx0qhJOjxJyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243990429264-rcs8hm0bb7ae3dv4pvqc612pn2i5dnnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
